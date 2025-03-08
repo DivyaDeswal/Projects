@@ -1,3 +1,4 @@
+# Project 1
 # Bank Transaction Fraud Detection
 
 ## 📌 Objective
@@ -90,3 +91,48 @@ models/ : Saved trained models.
 
 
 
+# Project 2
+# Mobile Recommendation System
+A recommendation engine that suggests mobile phones based on user preferences.
+
+## 📊 Project Details
+
+### 🔹 Mobile Recommendation System
+
+The Mobile Recommendation System is designed to help users find the best mobile phones based on their preferences. The system analyzes key attributes of mobile devices, such as:
+
+Price Range: Budget, mid-range, or premium segment.
+
+Technical Specifications: RAM, storage capacity, battery life, and processor speed.
+
+User Preferences: Camera quality, brand preference, screen size, and operating system.
+
+Feature Prioritization: AI-driven ranking based on user importance weightage.
+
+### 📌 How It Works
+
+Data Collection: The system utilizes a dataset containing specifications of various mobile phones.
+
+Feature Engineering: Extracting relevant features such as performance, display quality, and user reviews.
+
+Content-Based Filtering: Compares phone attributes to user preferences and recommends the most suitable options.
+
+Machine Learning Models: Uses similarity-based techniques like Cosine Similarity, K-Nearest Neighbors (KNN), and collaborative filtering.
+
+Output Recommendations: Presents a ranked list of recommended mobile phones based on the user's needs.
+
+### 🔬 Technologies Used
+
+Python (Pandas, NumPy, Scikit-learn) for data processing and modeling.
+
+Jupyter Notebook for development and experimentation.
+
+Machine Learning Algorithms for recommendation logic.
+
+### 📝 Future Improvements
+
+Enhance recommendation accuracy using hybrid filtering (content + collaborative).
+
+Integrate deep learning for personalized suggestions.
+
+Implement a web-based UI for easy user interaction.
